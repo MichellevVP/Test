@@ -1,1 +1,8 @@
+/* - - - - - - - - - Kopfzeile - - - - - - - - - */
 
+header {
+    background-color: rgba(142, 209, 252, 1.0);
+    color: rgba(6, 147, 227, 1.0);
+    padding: 15px;
+    text-align: center;
+}

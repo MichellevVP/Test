@@ -6,3 +6,19 @@ header {
     padding: 15px;
     text-align: center;
 }
+
+
+/*Buttons*/
+.btn {
+    font-size: 20px !important; /*Grösse der Schrift */
+    padding: 40px 40px !important; /*Größe des Buttons*/
+    margin-top: 40px; /* Platz oben */
+    margin-left: 40px; /*Platz links*/
+    background-color: rgba(142, 209, 252, 1.0) !important;
+    color: rgba(6, 147, 227, 1.0) !important;
+}
+
+.container {
+    margin-left: 20px !important; /* Abstand links */
+    margin-right: 20px !important; /* Abstand rechts */
+}

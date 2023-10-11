@@ -1,5 +1,6 @@
 /* - - - - - - - - - Kopfzeile - - - - - - - - - */
 
+
 header {
     background-color: rgba(142, 209, 252, 1.0);
     color: rgba(6, 147, 227, 1.0);
@@ -23,4 +24,13 @@ header {
 .container {
     margin-left: 25px !important; /* Abstand links */
     margin-right: 25px !important; /* Abstand rechts */
+}
+
+
+header a {
+    text-decoration: none;
+}
+
+header h1 {
+    color:  rgba(6, 147, 227, 1.0)
 }

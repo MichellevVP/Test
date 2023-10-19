@@ -22,8 +22,9 @@ header {
 
 
 .container {
-    margin-left: 25px !important; /* Abstand links */
+    margin-left: 70px !important; /* Abstand links */
     margin-right: 25px !important; /* Abstand rechts */
+    margin-bottom: 40px !important; /*Abstand unten*/
 }
 
 

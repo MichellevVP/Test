@@ -35,3 +35,25 @@ header a {
 header h1 {
     color:  rgba(6, 147, 227, 1.0)
 }
+
+.flexContainer {
+    display: flex;
+    margin-left: 20px;
+  }
+
+.containerInformations {
+    flex: 4;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+  
+.containerImage {
+  flex: 1;
+  margin-top: 20px;
+}
+
+.image {
+    height: auto;
+    width: 300px;
+}

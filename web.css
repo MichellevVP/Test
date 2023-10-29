@@ -57,21 +57,3 @@ header h1 {
     height: auto;
     width: 300px;
 }
-
-/* Profiles */
-
-#container-Profile {
-    text-align: center; /* Center the content horizontally */
-    background-color: #f7f7f7;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    height: 100vh;
-}

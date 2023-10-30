@@ -20,14 +20,6 @@ header {
     height: 150px; /*Höhe des Buttons*/
 }
 
-
-.container {
-    margin-left: 70px !important; /* Abstand links */
-    margin-right: 25px !important; /* Abstand rechts */
-    margin-bottom: 40px !important; /*Abstand unten*/
-}
-
-
 header a {
     text-decoration: none;
 }
@@ -50,7 +42,7 @@ header h1 {
   
 .containerImage {
   flex: 1;
-  margin-top: 20px;
+  margin-top: 35px;
 }
 
 .image {

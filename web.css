@@ -20,14 +20,6 @@ header {
     height: 150px; /*Höhe des Buttons*/
 }
 
-
-.container {
-    margin-left: 70px !important; /* Abstand links */
-    margin-right: 25px !important; /* Abstand rechts */
-    margin-bottom: 40px !important; /*Abstand unten*/
-}
-
-
 header a {
     text-decoration: none;
 }
@@ -36,27 +28,13 @@ header h1 {
     color:  rgba(6, 147, 227, 1.0)
 }
 
-.flexContainer {
-    display: flex;
-    margin-left: 20px;
-  }
-
 .containerInformations {
     flex: 4;
     font-size: 20px;
     margin-top: 20px;
     margin-left: 20px;
 }
-  
-.containerImage {
-  flex: 1;
-  margin-top: 20px;
-}
 
-.image {
-    height: auto;
-    width: 300px;
-}
 #container-Profile {
     background-color: rgba(142, 209, 252, 1.0);
     padding: 4%;
@@ -64,6 +42,22 @@ header h1 {
     border: 2px solid rgba(142, 209, 252, 1.0);
     border-radius: 5%;
     color: white;
+}
+  
+.flexContainer {
+    display: flex;
+    margin-left: 20px;
+  }
+
+
+.containerImage {
+  flex: 1;
+  margin-top: 35px;
+}
+
+.image {
+    height: auto;
+    width: 300px;
 }
 
 #photo-Profile{

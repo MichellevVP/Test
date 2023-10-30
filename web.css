@@ -1,1 +1,80 @@
+/* - - - - - - - - - Kopfzeile - - - - - - - - - */
 
+
+header {
+    background-color: rgba(142, 209, 252, 1.0);
+    color: rgba(6, 147, 227, 1.0);
+    padding: 15px;
+    text-align: center;
+}
+
+
+/*Buttons*/
+.btn {
+    font-size: 20px !important; /*Größe der Schrift */
+    margin-top: 40px; /* Platz oben */
+    margin-left: 40px; /*Platz links*/
+    background-color: rgba(142, 209, 252, 1.0) !important;
+    color: rgba(6, 147, 227, 1.0) !important;
+    width: 200px; /* Breite des Buttons */
+    height: 150px; /*Höhe des Buttons*/
+}
+
+header a {
+    text-decoration: none;
+}
+
+header h1 {
+    color:  rgba(6, 147, 227, 1.0)
+}
+
+.containerInformations {
+    flex: 4;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#container-Profile {
+    background-color: rgba(142, 209, 252, 1.0);
+    padding: 4%;
+    width: 40%;
+    border: 2px solid rgba(142, 209, 252, 1.0);
+    border-radius: 5%;
+    color: white;
+}
+  
+.flexContainer {
+    display: flex;
+    margin-left: 20px;
+  }
+
+
+.containerImage {
+  flex: 1;
+  margin-top: 35px;
+}
+
+.image {
+    height: auto;
+    width: 300px;
+}
+
+#photo-Profile{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+#container-Profilewithphoto{
+    background-color: rgba(142, 209, 252, 1.0);
+    padding: 4%;
+    width: 20%;
+    height: 30%;
+    border: 2px solid rgba(142, 209, 252, 1.0);
+    border-radius: 5%;
+    color: white;
+    margin-left: 10%;
+    margin-right:30%;
+    margin-top: 4%;
+
+}
